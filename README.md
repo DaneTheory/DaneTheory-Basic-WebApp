@@ -1,4 +1,4 @@
-<h1><a href="http://ubermeteor.danedev.com/">UberMeteor Demo</a></h1>
+<h1><a href="http://ubermeteor.danedev.com/" target="_blank">UberMeteor Demo</a></h1>
 
 <h5>I’m building my portfolio using NodeJS. Meteor seemed the logical route for a basic website.<br>
 This is a stupid simple bare bones meter stack.</h5>
