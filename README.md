@@ -30,3 +30,6 @@ That being said, you’ll need to edit the meta data and favicon data.</h5>
 <li><h5>-After I finish the full WebApp, I'll go through and strip out all the unneccessary parts. Factor it into being a
 solid skeletion for rapid development as well as helping novice users wanting to start developing in NodeJS.</h5></li>
 <li><h5>-Comment the hell out of everything for relatively new users to learn.</h5></li>
+<li><h5>-Make a Wordpress version.</h5></li>
+<li><h5>-Make a Drupal version.</h5></li>
+<li><h5>-Make a ThreeJS version with default networking setup for in browser, multi-player 3D games.</h5></li>
